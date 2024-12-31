@@ -14,7 +14,7 @@ I'm *Odera Gerald Akwaeze*, a passionate *Cybersecurity Enthusiast* and aspiring
   - Collaborations with other professionals in the field
   - ## 📫 Let's Connect  
 - *LinkedIn:*  
-- *Twitter/X:*https://x.com/SirGerald17]  
+- Twitter/X:https://x.com/SirGerald17]  
 - ## 🔧 Tech Stack  
 Here are some of the tools and technologies I work with:  
 - *Languages:* Python, Bash, PowerShell  
