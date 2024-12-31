@@ -1,5 +1,5 @@
 - ## 👋 Hi there! Welcome to my GitHub profile  
-I'm *Odera Gerald Akwaeze, a passionate **Cybersecurity Enthusiast* and aspiring *Penetration Tester* dedicated to learning, building, and contributing to the cybersecurity community. My goal is to document my journey, create useful tools, and collaborate with professionals to make digital systems more secure.
+I'm *Odera Gerald Akwaeze*, a passionate *Cybersecurity Enthusiast* and aspiring *Penetration Tester* dedicated to learning, building, and contributing to the cybersecurity community. My goal is to document my journey, create useful tools, and collaborate with professionals to make digital systems more secure.
 - ## 🌟 About Me  
 - 🔐 *Current Focus:* Penetration testing tools, techniques, and methodologies  
 - 💻 *Learning:* Cybersecurity fundamentals, Capture The Flag (CTF) challenges, and exploit development  
@@ -13,7 +13,7 @@ I'm *Odera Gerald Akwaeze, a passionate **Cybersecurity Enthusiast* and aspiring
   - Forks and contributions to popular security tools  
   - Collaborations with other professionals in the field
   - ## 📫 Let's Connect  
-- *LinkedIn:* [Your LinkedIn URL]  
+- *LinkedIn:*  
 - *Twitter/X:*https://x.com/SirGerald17]  
 - ## 🔧 Tech Stack  
 Here are some of the tools and technologies I work with:  
